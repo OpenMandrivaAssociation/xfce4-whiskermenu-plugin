@@ -1,3 +1,5 @@
+%define debug_package %{nil}
+
 Summary:	An alternate application launcher for Xfce
 Name:		xfce4-whiskermenu-plugin
 Version:	1.0.1
