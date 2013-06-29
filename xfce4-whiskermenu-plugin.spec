@@ -30,3 +30,7 @@ Whisker Menu is an alternate application launcher for Xfce.
 %makeinstall_std -C build
 
 %files
+%doc README NEWS CREDITS
+%{_libdir}/xfce4/panel/plugins/libwhiskermenu.so
+%{_datadir}/xfce4/panel/plugins/whiskermenu.desktop
+%{_iconsdir}/*/*/apps/xfce4-whiskermenu.*g
