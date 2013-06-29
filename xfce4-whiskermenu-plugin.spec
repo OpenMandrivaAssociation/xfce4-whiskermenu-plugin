@@ -25,6 +25,6 @@ Whisker Menu is an alternate application launcher for Xfce.
 %make
 
 %install
-%makeinstall_std
+%makeinstall_std -C build
 
 %files
