@@ -2,12 +2,12 @@
 
 Summary:	An alternate application launcher for Xfce
 Name:		xfce4-whiskermenu-plugin
-Version:	1.4.2
-Release:	2
+Version:	1.5.0
+Release:	1
 License:	GPLv2+
 Group:		Graphical desktop/Xfce
 Url:		http://gottcode.org/xfce4-whiskermenu-plugin/
-Source0:	http://gottcode.org/xfce4-whiskermenu-plugin/%{name}-%{version}-src.tar.bz2
+Source0:	http://gottcode.org/xfce4-whiskermenu-plugin/%{name}-%{version}.tar.bz2
 
 BuildRequires:	cmake
 BuildRequires:	pkgconfig(exo-1)
