@@ -15,6 +15,7 @@ BuildRequires:	pkgconfig(garcon-1)
 BuildRequires:	pkgconfig(libxfce4panel-1.0)
 BuildRequires:	pkgconfig(libxfce4ui-1)
 BuildRequires:	pkgconfig(libxfce4util-1.0)
+BuildRequires:	pkgconfig(pangoxft)
 
 %description
 Whisker Menu is an alternate application launcher for Xfce.
