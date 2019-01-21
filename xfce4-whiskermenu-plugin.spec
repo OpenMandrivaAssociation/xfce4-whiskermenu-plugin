@@ -3,7 +3,7 @@
 
 Summary:	An alternate application launcher for Xfce
 Name:		xfce4-whiskermenu-plugin
-Version:	2.1.5
+Version:	2.3.1
 Release:	1
 License:	GPLv2+
 Group:		Graphical desktop/Xfce
