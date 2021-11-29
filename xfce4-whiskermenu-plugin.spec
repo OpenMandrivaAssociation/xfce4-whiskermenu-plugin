@@ -38,6 +38,7 @@ Whisker Menu is an alternate application launcher for Xfce.
 %{_bindir}/xfce4-popup-whiskermenu
 %{_libdir}/xfce4/panel/plugins/libwhiskermenu.so
 %{_datadir}/xfce4/panel/plugins/whiskermenu.desktop
-%{_iconsdir}/*/*/apps/xfce4-whiskermenu.*g
+%{_iconsdir}/hicolor/*x*/apps/org.xfce.panel.whiskermenu.png
+%{_iconsdir}/hicolor/scalable/apps/org.xfce.panel.whiskermenu.svg
 %{_mandir}/man1/xfce4-popup-whiskermenu.1.*
 
