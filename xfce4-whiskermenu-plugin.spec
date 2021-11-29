@@ -1,4 +1,4 @@
-%define debug_package %{nil}
+%define _empty_manifest_terminate_build 0
 %define url_ver %(echo %version | cut -d. -f1,2)
 
 Summary:	An alternate application launcher for Xfce
