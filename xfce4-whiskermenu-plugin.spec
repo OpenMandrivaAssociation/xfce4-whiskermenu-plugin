@@ -11,6 +11,7 @@ Url:		http://gottcode.org/xfce4-whiskermenu-plugin/
 Source0:	http://archive.xfce.org/src/panel-plugins/xfce4-whiskermenu-plugin/%{url_ver}/%{name}-%{version}.tar.bz2
 
 BuildRequires:	cmake
+BuildRequires:  accountsservice
 BuildRequires:	pkgconfig(exo-2)
 BuildRequires:	pkgconfig(garcon-1)
 BuildRequires:	pkgconfig(libxfce4panel-2.0)
