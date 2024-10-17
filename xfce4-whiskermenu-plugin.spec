@@ -7,7 +7,7 @@ Version:	2.8.3
 Release:	1
 License:	GPLv2+
 Group:		Graphical desktop/Xfce
-Url:		http://gottcode.org/xfce4-whiskermenu-plugin/
+Url:		https://gottcode.org/xfce4-whiskermenu-plugin/
 Source0:	http://archive.xfce.org/src/panel-plugins/xfce4-whiskermenu-plugin/%{url_ver}/%{name}-%{version}.tar.bz2
 
 BuildRequires:	cmake
