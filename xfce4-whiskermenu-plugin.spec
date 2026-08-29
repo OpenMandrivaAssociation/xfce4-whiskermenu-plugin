@@ -3,7 +3,7 @@
 
 Summary:	An alternate application launcher for Xfce
 Name:		xfce4-whiskermenu-plugin
-Version:	2.9.2
+Version:	2.10.1
 Release:	1
 License:	GPLv2+
 Group:		Graphical desktop/Xfce
@@ -25,7 +25,7 @@ BuildRequires:  pkgconfig(gtk-layer-shell-0)
 Whisker Menu is an alternate application launcher for Xfce.
 
 %prep
-%setup -q
+%autosetup -p1
 
 %build
 %cmake
