@@ -10,6 +10,7 @@ Group:		Graphical desktop/Xfce
 Url:		https://gottcode.org/xfce4-whiskermenu-plugin/
 Source0:	https://archive.xfce.org/src/panel-plugins/xfce4-whiskermenu-plugin/%{url_ver}/%{name}-%{version}.tar.bz2
 
+BuildRequires:  make
 BuildRequires:	cmake
 BuildRequires:  accountsservice
 BuildRequires:	pkgconfig(exo-2)
